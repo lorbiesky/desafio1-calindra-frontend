@@ -11,7 +11,6 @@ function Home() {
 
   const handleSearch = (params) => {
     getBySearch(params);
-    console.log("Passei aqui");
   };
 
   useEffect(() => {
