@@ -20,13 +20,13 @@ export const CurrImage = styled.img`
   width: 210px;
 `;
 
-export const CurrName = styled.text`
+export const CurrName = styled.span`
   color: #000;
   font-size: 18px;
   text-align: center;
 `;
 
-export const CurrPrice = styled.text`
+export const CurrPrice = styled.span`
   font-size: 24px;
   font-weight: 500;
 `;

@@ -51,7 +51,7 @@ export const SearchButton = styled.div`
   }
 `;
 
-export const ButtonText = styled.text`
+export const ButtonText = styled.span`
   color: white;
   font-size: 22px;
   font-weight: 300;
